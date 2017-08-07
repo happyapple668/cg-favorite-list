@@ -1,9 +1,11 @@
 # 我的阅读清单及读后感
 
-## 书籍分类
+## 索引
 - [计算机](#计算机)
 - [杂文](#杂文)
 - [数学](#数学)
+- [电影](https://github.com/guobinhit/cg-reading-list/blob/master/moives/moive-list.md)
+- [网文](https://github.com/guobinhit/cg-reading-list/blob/master/moives/moive-list.md)
 
 
 
