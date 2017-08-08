@@ -1,36 +1,17 @@
-# 我的阅读清单及读后感
+# 我的收藏列表
 
 ## 索引
-- [计算机](#计算机)
-- [杂文](#杂文)
-- [数学](#数学)
-- [电影](https://github.com/guobinhit/cg-reading-list/blob/master/moives/moive-list.md)
-- [网文](https://github.com/guobinhit/cg-reading-list/blob/master/moives/moive-list.md)
+
+- [电影](https://github.com/guobinhit/cg-favorite-list/blob/master/moives/moive-list.md)
+- [书籍](https://github.com/guobinhit/cg-favorite-list/blob/master/articles/book-list.md)
+- [小说](https://github.com/guobinhit/cg-favorite-list/blob/master/articles/book-list.md)
 
 
+# MY FAVORITE LIST
 
+## INDEX
 
-## 计算机
- - 《Java编程思想》（第4版）
-   - 作者：Bruce Eckel
-   
-   - 译者：陈昊鹏等
-   
-   - 出版社：机械工业出版社
-  
-   
-  
- 
+- [MOIVES](https://github.com/guobinhit/cg-favorite-list/blob/master/moives/moive-list.md)
+- [BOOKS](https://github.com/guobinhit/cg-favorite-list/blob/master/articles/book-list.md)
+- [NOVELS](https://github.com/guobinhit/cg-favorite-list/blob/master/articles/book-list.md)
 
-   
-   
-   
-## 杂文
-
-
-## 数学
-
-- 高等代数
-  - 杨子胥习题集
-- 数学分析
-  - 钱吉林解题精粹
