@@ -7,7 +7,7 @@
 - [网文](https://github.com/guobinhit/cg-favorite-list/blob/master/articles/novel-list.md)
 
 
-# Collection list
+# COLLECTION　LIST
 
 ## INDEX
 
