@@ -1,4 +1,4 @@
-# 我的阅读清单
+# 阅读清单
 
 ## 索引
 
@@ -21,7 +21,13 @@
 
 ## 计算机
  
-- Effective Java(中文版)
+
+- Java并发编程实战
+  - 作者：Brian Goetz，Tim Peierls，Joshua Bloch，Joseph Bowbeer，David Holmes，Doug Lea
+  - 译者：童兰云 等
+  - 阅读时间：2017.11.11
+ 
+- Effective Java(第2版)
   - 作者：Joshua Bloch
   - 译者：杨春红，俞黎敏
   - 阅读时间：2017.10.24
@@ -32,7 +38,7 @@
 
  
 - Head First设计模式
-  - 作者：Eric Freeman & Elisabeth Freeman & Kathy Sierra & Bert Bates
+  - 作者：Eric Freeman，Elisabeth Freeman，Kathy Sierra，Bert Bates
   - 译者：O'Reilly Taiwan
   - 阅读时间：2017.08.01
  
@@ -74,7 +80,7 @@
 
 - 藏地密码
   - 作者：何马
-  - 阅读时间：2013.10.01
+  - 阅读时间：2013.10.01
 
 
 
