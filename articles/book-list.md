@@ -22,9 +22,9 @@
 ## 计算机
  
 - Head First Python
- - 作者：Paul Barry
- - 译者：林琪，郭静 等
- - 阅读时间：2017.11.25
+  - 作者：Paul Barry
+  - 译者：林琪，郭静 等
+  - 阅读时间：2017.11.25
 
 - Java并发编程实战
   - 作者：Brian Goetz，Tim Peierls，Joshua Bloch，Joseph Bowbeer，David Holmes，Doug Lea
