@@ -21,6 +21,11 @@
 
 ## 计算机
  
+- 机器学习导论
+  - 作者：Miroslav Kubat
+  - 译者：王勇，仲国强，孙鑫
+  - 阅读时间：2017.12.02
+  
 - Head First Python
   - 作者：Paul Barry
   - 译者：林琪，郭静 等
