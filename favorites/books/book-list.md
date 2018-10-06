@@ -28,6 +28,10 @@
 
 ## 计算机
 
+- Java并发编程实战
+  - 作者：Brian Goetz，Tim Peierls，Joshua Bloch，Joseph Bowbeer，David Holmes，Doug Lea
+  - 译者：童兰云 等
+  - 阅读时间：2018.10.01 
 - 深入理解Java虚拟机：JVM高级特性与最佳实践
   - 作者：周志明
   - 阅读时间：2018.08.01
@@ -39,10 +43,6 @@
   - 作者：Miroslav Kubat
   - 译者：王勇，仲国强，孙鑫
   - 阅读时间：2017.12.02
-- Java并发编程实战
-  - 作者：Brian Goetz，Tim Peierls，Joshua Bloch，Joseph Bowbeer，David Holmes，Doug Lea
-  - 译者：童兰云 等
-  - 阅读时间：2017.11.11 
 - Effective Java(第2版)
   - 作者：Joshua Bloch
   - 译者：杨春红，俞黎敏
