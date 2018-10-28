@@ -28,6 +28,10 @@
 
 ## 计算机
 
+- Python编程：从入门到实践
+  - 作者：Eric Matthes
+  - 译者：袁国忠
+  - 阅读时间：2018.10.28
 - Java并发编程实战
   - 作者：Brian Goetz，Tim Peierls，Joshua Bloch，Joseph Bowbeer，David Holmes，Doug Lea
   - 译者：童兰云 等
